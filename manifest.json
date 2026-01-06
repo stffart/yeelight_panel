@@ -1,0 +1,10 @@
+{
+  "domain": "yeelight_panel",
+  "name": "Magi Panel",
+  "documentation": "https://github.com/stffart/yeelight_panel",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["python-miio"],
+  "config_flow": true,
+  "version": "0.1.0"
+}

@@ -1,0 +1,1 @@
+DOMAIN = 'yeelight_panel'
